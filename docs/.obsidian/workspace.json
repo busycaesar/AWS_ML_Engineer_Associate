@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Ingestion and Storage.md",
+                "file": "EBS Volume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Ingestion and Storage"
+              "title": "EBS Volume"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "fadbc8ffb735582c",
   "lastOpenFiles": [
-    "intro.md",
     "Data Ingestion and Storage.md",
+    "intro.md",
     "dev.md",
     "Amazon Kinesis Data Streams.md",
     "Amazon Data Firehose.md",
